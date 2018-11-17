@@ -21,6 +21,8 @@ Some BTCR links:
     - https://github.com/WebOfTrustInfo/txref-conversion-js
 - [BTCR DID Resolver Specification](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf), Apr 16, 2018, Rebooting Web of Trust
 
+![Shuttleworth Funded Logo](ShuttleworthFunded.png)
+
 #### Blockcerts
 
 [Learning Machine](https://www.learningmachine.com/) incubated [Blockcerts](https://www.blockcerts.org) with MIT Media Lab in 2016 as an open source, open standard for creating, issuing, and verifying digital records. I was principal architect and developer for this work.
