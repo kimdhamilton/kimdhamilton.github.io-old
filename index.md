@@ -1,4 +1,4 @@
-## Kim Hamilton Duffy
+### About me
 
 CTO [Learning Machine](learningmachine.com), Principal Architect of [Blockcerts](blockcerts.org).
 
