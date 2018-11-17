@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: Kim Hamilton Duffy
-twitter:
-  username: "kimdhamilton"
+author:
+  name: "Kim Hamilton Duffy"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kimdhamilton"
