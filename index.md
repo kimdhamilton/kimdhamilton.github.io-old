@@ -21,8 +21,6 @@ Some BTCR links:
     - https://github.com/WebOfTrustInfo/txref-conversion-js
 - [BTCR DID Resolver Specification](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf), Apr 16, 2018, Rebooting Web of Trust
 
-![Shuttleworth Funded Logo](ShuttleworthFunded.png)
-
 #### Blockcerts
 
 [Learning Machine](https://www.learningmachine.com/) incubated [Blockcerts](https://www.blockcerts.org) with MIT Media Lab in 2016 as an open source, open standard for creating, issuing, and verifying digital records. I was principal architect and developer for this work.
@@ -42,3 +40,5 @@ The [Blockcerts Roadmap (draft)](https://github.com/WebOfTrustInfo/rwot7/blob/ma
 - [Linked Data Signature Format Alignment](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/ld-signatures.pdf)
 - [What we learned from designing an academic certificates system on the blockchain](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196)
 - [The Time for Self-Sovereign Identity is Now: Blockcerts, Decentralized Identifiers, and Verifiable Claims](https://medium.com/learning-machine-blog/the-time-for-self-sovereign-identity-is-now-222aab97041b)
+
+![Shuttleworth Funded Logo](ShuttleworthFunded.jpg)
