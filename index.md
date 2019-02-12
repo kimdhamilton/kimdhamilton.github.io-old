@@ -34,6 +34,9 @@ The [Blockcerts Roadmap (draft)](https://github.com/WebOfTrustInfo/rwot7/blob/ma
 
 ### Recent Publications
 
+- [Designing a Recipient-Centric Educational Digital Credential Ecosystem](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/educational-credentialing-ecosystem.md)
+- [IPLD as a general pattern for DID documents and Verifiable Claims](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/draft-documents/ipld_did_documents.md)
+- [BTCR v0.1 Design Decisions](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.pdf)
 - [Blockcerts Roadmap (draft)](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/blockcerts_roadmap.md)
 - [Open Badges are Verifiable Credentials](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf), Jul 9, 2018, Rebooting Web of Trust
 - [BTCR DID Resolver Specification](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf), Apr 16, 2018, Rebooting Web of Trust
